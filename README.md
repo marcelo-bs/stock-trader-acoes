@@ -1,4 +1,12 @@
-# stock-trader
+# Stock Trader Ações
+
+Projeto simples baseado em VueJS onde o usuário negocia as ações de compra e venda e também faz consulta de suas ações.
+
+### 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- VueJS.
 
 ## Project setup
 ```
